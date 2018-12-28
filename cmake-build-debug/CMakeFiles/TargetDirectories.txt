@@ -1,0 +1,4 @@
+D:/Studia/TS/Projekt_TS_1_serwer/cmake-build-debug/CMakeFiles/Serwer.dir
+D:/Studia/TS/Projekt_TS_1_serwer/cmake-build-debug/CMakeFiles/Klient.dir
+D:/Studia/TS/Projekt_TS_1_serwer/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Studia/TS/Projekt_TS_1_serwer/cmake-build-debug/CMakeFiles/rebuild_cache.dir
